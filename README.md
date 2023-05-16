@@ -1,0 +1,2 @@
+# typescript
+typescript基础
